@@ -796,3 +796,13 @@ button:hover {
   bottom: 16.6667%;
   transform: translate3d(-50%, 16.6667%, 0) rotate(180deg);
 }
+a {
+  text-decoration: none;
+  position: absolute;
+  bottom: 80px;
+  right: 80px;
+  text-align: right;
+  color: #eee;
+  font-size: 15px;
+  line-height: 15px;
+}
